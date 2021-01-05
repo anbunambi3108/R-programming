@@ -1,0 +1,6 @@
+name=c("arjun","ajay","adhi")
+lang=c("c","py","r")
+rank=c(3,2,1)
+df=data.frame(name,lang,rank)
+print(df)
+summary(df)
